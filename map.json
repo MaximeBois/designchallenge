@@ -151,7 +151,61 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":136.432079912918,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "pixelsize":7,
+                     "text":"Groupe 1\n\nLaurent P (animateur)\nSandy\nJulien B\nAlexandre C\nLaura\nGwen\n",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":112.842676209163,
+                 "x":69.3775969445061,
+                 "y":1033.23323620972
+                }, 
+                {
+                 "height":136.432,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "pixelsize":7,
+                     "text":"Groupe 2\n\nMaxime B (animateur)\nCl\u00e9ment\nJulien R\nLaurine\nBeno\u00eet\nLucas\n",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":112.843,
+                 "x":326.295234150535,
+                 "y":1031.67861423263
+                }, 
+                {
+                 "height":72.395498128564,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "pixelsize":7,
+                     "text":"Groupe 3\n\nPrisca B (animateur)\nR\u00e9mi\nVirginie\nGuillaume\nAlexandre S\nFloriane\n",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":70.6886930500859,
+                 "x":615.828763464419,
+                 "y":1037.22523356814
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -177,7 +231,7 @@
          "y":0
         }],
  "nextlayerid":20,
- "nextobjectid":1,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
