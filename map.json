@@ -229,9 +229,36 @@
          "width":46,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":20,
+         "name":"Text",
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"COUCOU",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":582.829397306751,
+                 "y":938.923270028129
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":20,
- "nextobjectid":6,
+ "nextlayerid":21,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
